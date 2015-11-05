@@ -9,7 +9,6 @@ $(function(){
 	        error: function (data) {
 	            console.log("ERROR:  " + data);
 	        }
-
 	    });
 
 	    function Automatic ( data ) {
